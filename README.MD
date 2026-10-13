@@ -1,4 +1,4 @@
-#Git Lab Practice 2
+##Git Lab Practice 2
 
 ## Learning goals
 - goal 1
